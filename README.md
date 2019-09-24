@@ -7,9 +7,11 @@
 
 
 IDEF0 диаграмма
+
 ![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
 
 Диаграмма классов
+
 ![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaBesedin.png)
 
 
