@@ -5,11 +5,13 @@
 
 Создать собственную учебную IDEF0-диаграмму, создать диаграмму классов и диаграмму прецедентов для диаграммы.
 
-![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
-IDEF0 диаграмма
 
-![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaBesedin.png)
+IDEF0 диаграмма
+![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
+
 Диаграмма классов
+![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaBesedin.png)
+
 
 Ссылки на доп.материалы
 
