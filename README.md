@@ -3,19 +3,32 @@
 
 ## Лабораторная 1
 
-Создать собственную учебную IDEF0-диаграмму, создать диаграмму классов и диаграмму прецедентов для диаграммы.
+Документирование программного кода
 
+Авторупоставлена задача написания статьи, её написание осуществляется на компьютере, соблюдая определённые требования издателя.
 
 IDEF0 диаграмма
 
+[Файл IDEF0 диаграммы](https://github.com/akumaB/Besedin.github.io/blob/master/writeArticle.rsf)
+
 ![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
 
-Диаграмма классов
+Автор пишет статью на компьютере, соблюдая требования издателя, по окончанию процесса написания статьи она публикуется в издании.
 
-![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaBesedin.png)
+***
+Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
++Диаграмма классов
 
-Ссылки на доп.материалы
+[UML-код диаграммы классов](https://github.com/akumaB/Besedin.github.io/blob/master/umlClass.txt)
+
+![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaClassBesedin.png)
+
++Диаграмма прецедентов
+
+[UML-код диаграммы прецедентов](https://github.com/akumaB/Besedin.github.io/blob/master/umlPrec.txt)
+
+![Диаграмма прецедентов](https://github.com/akumaB/Besedin.github.io/blob/master/diaProcBesedin.png)
 
 ## Лабораторная 2
 
