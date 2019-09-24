@@ -6,6 +6,7 @@
 Создать собственную учебную IDEF0-диаграмму, создать диаграмму классов и диаграмму прецедентов для диаграммы.
 
 ![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
+![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaBesedin.png)
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
 Ссылки на доп.материалы
