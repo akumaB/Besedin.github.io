@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Автор" as P {
+ Корректор
+Публикация в издании Написать статью (Информация из внешних источников, Требования издателя)
+}
+hide circle
+@enduml
