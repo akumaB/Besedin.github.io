@@ -1,5 +1,5 @@
-# Отчет а лабораторных работах
-# студент группы [ИДБ-16-06](https://github.com/stankin/design-2018/wiki/list-idb-16-06) [Беседин Б.А.](https://github.com/akumaB)
+# Отчет по лабораторным работам
+# студент группы [ИДБ-16-06](https://github.com/stankin/design-2018/wiki/list-idb-16-06) [Беседин Б.А.](https://github.com/sggst)
 
 ## Лабораторная 1
 
@@ -9,9 +9,9 @@
 
 + IDEF0 диаграмма
 
-[Файл IDEF0 диаграммы](https://github.com/akumaB/Besedin.github.io/blob/master/writeArticle.rsf)
+[Файл IDEF0 диаграммы](https://github.com/sggst/Besedin.github.io/blob/master/writeArticle.rsf)
 
-![IDEF0 диаграмма](https://github.com/akumaB/Besedin.github.io/blob/master/idef0Besedin.png)
+![IDEF0 диаграмма](https://github.com/sggst/Besedin.github.io/blob/master/idef0Besedin.png)
 
 Автор пишет статью на компьютере,руководствуясь на информации из внешних источников и соблюдая требования издателя, по окончанию процесса написания статьи она публикуется в издании.
 
@@ -21,15 +21,15 @@
 
 + Диаграмма классов
 
-[UML-код диаграммы классов](https://github.com/akumaB/Besedin.github.io/blob/master/umlClass.txt)
+[UML-код диаграммы классов](https://github.com/sggst/Besedin.github.io/blob/master/umlClass.txt)
 
-![Диаграмма классов](https://github.com/akumaB/Besedin.github.io/blob/master/diaClassBesedin.png)
+![Диаграмма классов](https://github.com/sggst/Besedin.github.io/blob/master/diaClassBesedin.png)
 
 + Диаграмма прецедентов
 
-[UML-код диаграммы прецедентов](https://github.com/akumaB/Besedin.github.io/blob/master/umlPrec.txt)
+[UML-код диаграммы прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/umlPrec.txt)
 
-![Диаграмма прецедентов](https://github.com/akumaB/Besedin.github.io/blob/master/diaProcBesedin.png)
+![Диаграмма прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaProcBesedin.png)
 
 ***
 
