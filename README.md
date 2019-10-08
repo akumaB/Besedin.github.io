@@ -35,6 +35,13 @@
 
 ## Лабораторная 2
 
+[Файл развёрнутой модели](https://github.com/sggst/Besedin.github.io/blob/master/writeArticleV.2.rsf)
+***
++ Диаграмма PDC:
+![диаграмма PDC](https://github.com/sggst/Besedin.github.io/blob/master/PDC.PNG)
++ Диаграмма DFD с 4 программными модулями и 2 таблицами:
+![Диаграмма DFD с 4 программными модулями и 2 таблицами](https://github.com/sggst/Besedin.github.io/blob/master/DFD.PNG)
+***
 ## Лабораторная 3
 
 ## Лабораторная 4
