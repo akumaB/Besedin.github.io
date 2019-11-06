@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Монтажёр" as Master {
+ Инструменты
+Установить Окно (Материалы, ГОСТ)
+}
+hide circle
+@enduml
