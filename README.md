@@ -5,15 +5,15 @@
 
 **Документирование программного кода**
 
-Автору поставлена задача написания статьи для издателя. 
+Монтажёру поставлена задача установка окна. 
 
 + IDEF0 диаграмма
 
-[Файл IDEF0 диаграммы](https://github.com/sggst/Besedin.github.io/blob/master/writeArticle.rsf)
+[Файл IDEF0 диаграммы](https://github.com/sggst/Besedin.github.io/blob/master/laba1.rsf)
 
-![IDEF0 диаграмма](https://github.com/sggst/Besedin.github.io/blob/master/idef0Besedin.png)
+![IDEF0 диаграмма](https://github.com/sggst/Besedin.github.io/blob/master/IDEF0.png)
 
-Автор пишет статью на компьютере,руководствуясь на информации из внешних источников и соблюдая требования издателя, по окончанию процесса написания статьи она публикуется в издании.
+Монтажёр устанавливает окна с помощью инструментов, рукодствуясь ГОСТом, по окончанию получаем установленное окно у клиента.
 
 ***
 
@@ -21,28 +21,56 @@
 
 + Диаграмма классов
 
-[UML-код диаграммы классов](https://github.com/sggst/Besedin.github.io/blob/master/umlClass.txt)
+[UML-код диаграммы классов](https://github.com/sggst/Besedin.github.io/blob/master/diaClass.txt)
 
-![Диаграмма классов](https://github.com/sggst/Besedin.github.io/blob/master/diaClassBesedin.png)
+![Диаграмма классов](https://github.com/sggst/Besedin.github.io/blob/master/diaClassPic.png)
 
 + Диаграмма прецедентов
 
-[UML-код диаграммы прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/umlPrec.txt)
+[UML-код диаграммы прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrec.txt)
 
-![Диаграмма прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaProcBesedin.png)
+![Диаграмма прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrecPic.png)
 
 ***
 
 ## Лабораторная 2
 
-[Файл развёрнутой модели](https://github.com/sggst/Besedin.github.io/blob/master/writeArticleV.2.rsf)
+[Файл развёрнутой модели](https://github.com/sggst/Besedin.github.io/blob/master/laby.rsf)
 ***
 + Диаграмма PDC:
-![диаграмма PDC](https://github.com/sggst/Besedin.github.io/blob/master/PDC.PNG)
-+ Диаграмма DFD с 3 программными модулями и 2 таблицами:
-![Диаграмма DFD с 3 программными модулями и 2 таблицами](https://github.com/sggst/Besedin.github.io/blob/master/DFD.PNG)
+
+![диаграмма PDC](https://github.com/sggst/Besedin.github.io/blob/master/idef0l2.png)
+
+
++ Диаграмма DFD:
+
+![Диаграмма DFD](https://github.com/sggst/Besedin.github.io/blob/master/dfd.png)
+
+
++ Диаграмма прецедентов:
+
+[UML-код диаграммы прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrecl2.txt)
+
+![Диаграмма прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrecl2.png)
 ***
 ## Лабораторная 3
+***
++ Диаграмма DFD:
+
+![диаграмма DFD](https://github.com/sggst/Besedin.github.io/blob/master/dfdL3.png)
+
+
++ Диаграмма последовательности:
+
+[UML-код диаграммы последовательности](https://github.com/sggst/Besedin.github.io/blob/master/diaPosl.txt)
+
+![Диаграмма последовательности](https://github.com/sggst/Besedin.github.io/blob/master/diaPoslPic.png)
+
+
++ Диаграмма ERD:
+
+![Диаграмма ERD](https://github.com/sggst/Besedin.github.io/blob/master/erd.png)
+***
 
 ## Лабораторная 4
 
