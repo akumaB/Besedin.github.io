@@ -1,0 +1,27 @@
+@startuml
+﻿
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Монтажёр" as user
+boundary "Клиент" as app
+boundary "Инструменты" as app2
+
+user -> app: Запрос
+activate app
+app->user: Заказ
+deactivate app
+
+user --> app2: Установка
+activate app2
+app <- app2: Проверка
+activate app
+app->app2: Результат проверка
+deactivate app
+app2->user: Установленное окно
+deactivate app2
+@enduml
